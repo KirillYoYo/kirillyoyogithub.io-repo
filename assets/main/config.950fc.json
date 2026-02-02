@@ -1,0 +1,58 @@
+{
+    "paths": {},
+    "uuids": [
+        "0ay3C4tEVJf6Cr2iCKnI/v",
+        "1bb31467d",
+        "392d9vUUpNpI1/+o4zlISu",
+        "41EUI6O5FMuo26oaaqTXQ6",
+        "799ZsSA6JO2o3q9HLQkVpK",
+        "8a0Mu+GNVHFK9a/x0YCkEI",
+        "b5TCd9pR9OxLiZ67Ij0YCE",
+        "c5txr7XnRO6Jo4h17KOXn0",
+        "ecpdLyjvZBwrvm+cedCcQy"
+    ],
+    "scenes": {
+        "db://assets/Scene/blast.fire": "41EUI6O5FMuo26oaaqTXQ6"
+    },
+    "redirect": [
+        "ecpdLyjvZBwrvm+cedCcQy",
+        0
+    ],
+    "deps": [
+        "internal"
+    ],
+    "packs": {
+        "077e3f2c0": [
+            "1bb31467d",
+            "c5txr7XnRO6Jo4h17KOXn0"
+        ],
+        "0aa728af2": [
+            "0ay3C4tEVJf6Cr2iCKnI/v",
+            "392d9vUUpNpI1/+o4zlISu",
+            "41EUI6O5FMuo26oaaqTXQ6",
+            "799ZsSA6JO2o3q9HLQkVpK",
+            "8a0Mu+GNVHFK9a/x0YCkEI",
+            "b5TCd9pR9OxLiZ67Ij0YCE"
+        ]
+    },
+    "name": "main",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [
+            "077e3f2c0",
+            "c0ce0",
+            "0aa728af2",
+            "b9019"
+        ],
+        "native": [
+            "1bb31467d",
+            "b7836",
+            "c5txr7XnRO6Jo4h17KOXn0",
+            "9817a"
+        ]
+    }
+}
