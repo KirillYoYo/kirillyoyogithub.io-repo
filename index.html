@@ -6,12 +6,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./style.css">
     <title>PixiJS - Template</title>
-  <script type="module" crossorigin src="./assets/index-BA6vPOCp.js"></script>
+  <script type="module" crossorigin src="./assets/index-BfU6DZWM.js"></script>
 </head>
 
 <body>
     <div id="app">
-        <div id="pixi-container"></div>
+        <div class="app-inner">
+            <div id="side-bar">
+                <button type="button" id="export-pdf-btn">Export PDF</button>
+                <button type="button" id="render-random">Generate random shapes</button>
+            </div>
+            <div id="pixi-canvas"><span class="canvas-label">Pixi</span></div>
+            <div id="skia-canvas"><span class="canvas-label">Skia</span></div>
+        </div>
     </div>
 </body>
 </html>
